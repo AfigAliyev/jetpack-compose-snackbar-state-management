@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SnackbarApp</string>
+
+    <string name="show_snackbar_from_ui">Show snackbar from UI</string>
+    <string name="show_snackbar_from_view_model">Show snackbar from ViewModel</string>
+    <string name="hello_world_from_ui">Hello World from UI!</string>
+    <string name="hello_world_from_view_model">Hello World from ViewModel!</string>
+
+    <string name="action">Action</string>
+    <string name="action_performed">Action performed!</string>
+    <string name="dismissed">Dismissed!</string>
+</resources>
